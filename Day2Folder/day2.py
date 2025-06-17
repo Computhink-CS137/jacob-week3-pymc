@@ -13,12 +13,11 @@ for counter in range(5):
 for letter in "Hello":
     print(letter)
 
-def Newyearsprogram():
-    for counter in range(11):
-        print(counter)
-    print('Happy New Year')
+# def Newyearsprogram():
+#     for counter in range(11):
+#         print(counter)
+#     print('Happy New Year')
     
-Newyearsprogram()
 ########################################################################
 # Task 2:
 
