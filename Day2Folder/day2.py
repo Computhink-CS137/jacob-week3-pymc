@@ -31,20 +31,20 @@ print("Hello from day2")
 
 ########################################################################
 # Task 4:
-for counter in range(1, 11):
-    print(counter)
+# for counter in range(1, 11):
+#     print(counter)
 
 
 ########################################################################
 # Task 5:
-for counter in range(5, 33,):
-    print(counter)
+# for counter in range(5, 33,):
+#     print(counter)
 
 
 ########################################################################
 # Task 6:
-for counter in range(50, 0,-1):
-    print(counter)
+# for counter in range(50, 0,-1):
+#     print(counter)
 
 
 ########################################################################
