@@ -37,7 +37,7 @@ for counter in range(1, 11):
 
 ########################################################################
 # Task 5:
-for counter in range(4, 33,):
+for counter in range(5, 33,):
     print(counter)
 
 
