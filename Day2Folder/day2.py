@@ -16,13 +16,13 @@ print("Hello from day2")
     
 ########################################################################
 # Task 2:
-def Cheername():
-    for letter in 'BillyBob':
-        print('Give me a ' + letter + ('!'))
-        print('Who is the greatest?')
-        print('BillyBob!')
+# def Cheername():
+#     for letter in 'BillyBob':
+#         print('Give me a ' + letter + ('!'))
+#         print('Who is the greatest?')
+#         print('BillyBob!')
 
-Cheername()
+# Cheername()
 ########################################################################
 # Task 3:
 for counter in range(10):
