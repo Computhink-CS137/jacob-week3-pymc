@@ -22,7 +22,7 @@ for letter in "Hello":
 # Task 2:
 def Cheername():
     for letter in 'BillyBob':
-        print()
+        print('Give me a')
 
 
 ########################################################################
