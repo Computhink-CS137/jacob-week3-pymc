@@ -25,14 +25,14 @@ print("Hello from day2")
 # Cheername()
 ########################################################################
 # Task 3:
-for counter in range(10):
-    print(counter)
+# for counter in range(10):
+#     print(counter)
 
 
 ########################################################################
 # Task 4:
 for counter in range(2, 11):
-    
+    print(counter)
 
 
 ########################################################################
