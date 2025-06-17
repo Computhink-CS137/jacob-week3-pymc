@@ -10,7 +10,7 @@ for count in range(1000):
 def Newyearsprogram():
     for counter in range(11):
         print(counter)
-    print
+    print('Happy New Year')
     
 ########################################################################
 # Task 2:
