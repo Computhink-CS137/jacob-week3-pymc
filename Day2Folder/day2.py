@@ -53,3 +53,4 @@ def Newyearsprogram():
         print(counter)
     print('Happy New Year')
 
+Newyearsprogram()
