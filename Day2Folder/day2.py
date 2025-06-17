@@ -11,6 +11,7 @@ for counter in range(5):
     print(counter)
 
 for letter in "Hello":
+    print(letter)
 
 def Newyearsprogram():
     for counter in range(11):
