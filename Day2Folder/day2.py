@@ -8,7 +8,9 @@ print("hello from day2")
 #     print('I will not sling mud at people')
 
 for counter in range(5):
-    print
+    print(counter)
+
+for letter in "Hello":
 
 def Newyearsprogram():
     for counter in range(11):
