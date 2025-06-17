@@ -8,7 +8,7 @@ for count in range(1000):
     print('I will not sling mud at people')
 
 def Newyearsprogram():
-    print('')
+    print('10')
 ########################################################################
 # Task 2:
 
