@@ -48,7 +48,8 @@ for counter in range(1, 11):
 ########################################################################
 # Additional exercises:
 
-# def Newyearsprogram():
-#     for counter in range(11, -1):
-#         print(counter)
-#     print('Happy New Year')
+def Newyearsprogram():
+    for counter in range(11, -1):
+        print(counter)
+    print('Happy New Year')
+
