@@ -7,7 +7,8 @@ print("hello from day2")
 for count in range(1000):
     print('I will not sling mud at people')
 
-
+def Newyearsprogram():
+    print('')
 ########################################################################
 # Task 2:
 
