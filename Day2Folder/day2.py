@@ -50,9 +50,9 @@ print("Hello from day2")
 ########################################################################
 # Additional exercises:
 
-def Newyearsprogram():
-    for counter in range(10, 0, -1):
-        print(counter)
-    print('Happy New Year')
+# def Newyearsprogram():
+#     for counter in range(10, 0, -1):
+#         print(counter)
+#     print('Happy New Year')
 
-Newyearsprogram()
+# Newyearsprogram()
