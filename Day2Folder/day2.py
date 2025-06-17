@@ -3,9 +3,12 @@
 print("hello from day2")
 
 ########################################################################
-# Task 1:
-for count in range(1000):
-    print('I will not sling mud at people')
+# # Task 1:
+# for count in range(1000):
+#     print('I will not sling mud at people')
+
+for counter in range(5):
+    print
 
 def Newyearsprogram():
     for counter in range(11):
