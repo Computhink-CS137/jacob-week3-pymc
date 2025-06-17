@@ -22,7 +22,7 @@ print("Hello from day2")
 # Task 2:
 def Cheername():
     for letter in 'BillyBob':
-        print('Give me a ' + letter)
+        print('Give me a ' + letter + ('!'))
 
 Cheername()
 ########################################################################
