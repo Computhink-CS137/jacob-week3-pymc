@@ -13,10 +13,6 @@ print("Hello from day2")
 # for letter in "Hello":
 #     print(letter)
 
-# def Newyearsprogram():
-#     for counter in range(11):
-#         print(counter)
-#     print('Happy New Year')
     
 ########################################################################
 # Task 2:
