@@ -24,7 +24,7 @@ def Cheername():
     for letter in 'BillyBob':
         print('Give me a ' + letter)
 
-
+Cheername()
 ########################################################################
 # Task 3:
 
