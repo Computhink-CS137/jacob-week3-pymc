@@ -9,7 +9,7 @@ for count in range(1000):
 
 def Newyearsprogram():
     for counter in range(11):
-        
+        print(counter)
 ########################################################################
 # Task 2:
 
