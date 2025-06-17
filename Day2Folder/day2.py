@@ -7,11 +7,11 @@ print("hello from day2")
 # for count in range(1000):
 #     print('I will not sling mud at people')
 
-for counter in range(5):
-    print(counter)
+# for counter in range(5):
+#     print(counter)
 
-for letter in "Hello":
-    print(letter)
+# for letter in "Hello":
+#     print(letter)
 
 # def Newyearsprogram():
 #     for counter in range(11):
