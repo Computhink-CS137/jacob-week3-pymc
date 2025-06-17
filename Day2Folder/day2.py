@@ -49,3 +49,8 @@ Cheername()
 
 ########################################################################
 # Additional exercises:
+
+# def Newyearsprogram():
+#     for counter in range(11):
+#         print(counter)
+#     print('Happy New Year')
