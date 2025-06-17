@@ -31,7 +31,7 @@ print("Hello from day2")
 
 ########################################################################
 # Task 4:
-for counter in range(2, 11):
+for counter in range(1, 11):
     print(counter)
 
 
