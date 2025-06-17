@@ -51,7 +51,7 @@ for counter in range(50, 0,-1):
 # Additional exercises:
 
 def Newyearsprogram():
-    for counter in range(11, 0, -1):
+    for counter in range(10, 0, -1):
         print(counter)
     print('Happy New Year')
 
