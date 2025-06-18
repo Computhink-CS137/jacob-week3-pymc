@@ -13,7 +13,7 @@ print("hello from day3")
 ########################################################################
 # Task 2:
 rank = input('What should I address you by?')
-name = input
+name = input('')
 
 
 ############################################
