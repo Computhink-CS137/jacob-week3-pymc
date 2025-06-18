@@ -31,16 +31,16 @@ print("hello from day3")
 
 ########################################################################
 # Task 4:
-Item = input('Whatre you getting today?')
-Amount = input('How many?')
-cost = input('They cost ')
-total_cost = int(Item) * int(Amount) * int(cost)
-print('Thatll be ' + str(cost))
+# Item = input('Whatre you getting today?')
+# Amount = input('How many?')
+# cost = input('They cost ')
+# total_cost = int(Item) * int(Amount) * int(cost)
+# print('Thatll be ' + str(cost))
 
 
 ########################################################################
 # Task 5:
-
+person1
 
 
 
