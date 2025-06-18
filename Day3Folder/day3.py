@@ -57,7 +57,8 @@ password = int(1234567890987654321)
 entered = input('Password : ')
 if entered == password:
     print('Access Granted')
-    
+else:
+    print('')
 
 ########################################################################
 # Task 7:
