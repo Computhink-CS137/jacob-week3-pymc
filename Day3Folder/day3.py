@@ -34,7 +34,7 @@ print("hello from day3")
 Item = input('Whatre you getting today?')
 Amount = input('How many?')
 cost = input('They cost ')
-total_cost = int(Item) * int(Amount) * 
+total_cost = int(Item) * int(Amount) * int(cost)
 print('Thatll be ' + str(cost))
 
 
