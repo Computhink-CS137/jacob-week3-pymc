@@ -42,7 +42,8 @@ print("hello from day3")
 # Task 5:
 person1 = input('Whats his age?')
 person2 = input('Whats her age?')
-
+if person1 > person2:
+    print(p)
 
 
 
