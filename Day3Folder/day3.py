@@ -6,7 +6,7 @@ print("hello from day3")
 # Task 1:
 yourname = input('whats your name?')
 print('hey ' + yourname)
-
+yourage = in
 
 
 ########################################################################
