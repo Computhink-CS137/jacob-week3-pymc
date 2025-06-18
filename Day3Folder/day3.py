@@ -17,6 +17,7 @@ print("hello from day3")
 # command = input('What are your orders?')
 # print(rank + (' ') + name + (' commands you all to ') + command)
 
+name = inout()
 ############################################
 ########################################################################
 # Task 3:
