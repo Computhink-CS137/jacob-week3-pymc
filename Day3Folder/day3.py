@@ -58,7 +58,7 @@ entered = input('Password : ')
 if entered == password:
     print('Access Granted')
 else:
-    print('')
+    print('Access Denied')
 
 ########################################################################
 # Task 7:
