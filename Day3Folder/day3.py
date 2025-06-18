@@ -44,6 +44,8 @@ person1 = input('Whats his age?')
 person2 = input('Whats her age?')
 if person1 > person2:
     print('Hes older')
+else:
+    print('')
 
 
 
