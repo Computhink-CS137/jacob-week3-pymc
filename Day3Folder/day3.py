@@ -23,17 +23,17 @@ print("hello from day3")
 ############################################
 ########################################################################
 # Task 3:
-number1 = input('Whats the 1st number?')
-number2 = input('Whats the 2nd number')
-results = int(number1) + int(number2)
-print('The answer is ' + str(results))
+# number1 = input('Whats the 1st number?')
+# number2 = input('Whats the 2nd number')
+# results = int(number1) + int(number2)
+# print('The answer is ' + str(results))
 
 
 ########################################################################
 # Task 4:
 Item = input('Whatre you getting today?')
 Amount = input('How many?')
-
+result
 
 
 ########################################################################
