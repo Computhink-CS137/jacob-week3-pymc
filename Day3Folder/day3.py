@@ -33,7 +33,7 @@ print("hello from day3")
 # Task 4:
 Item = input('Whatre you getting today?')
 Amount = input('How many?')
-result
+cost = int(Item)
 
 
 ########################################################################
