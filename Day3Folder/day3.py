@@ -18,7 +18,8 @@ print("hello from day3")
 # print(rank + (' ') + name + (' commands you all to ') + command)
 
 name = input('Whats your name?')
-pens = input('How ')
+pens = input('How many of these pens are you getting?')
+
 ############################################
 ########################################################################
 # Task 3:
