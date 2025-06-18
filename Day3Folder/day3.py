@@ -32,7 +32,8 @@ print('The answer is ' + str(results))
 ########################################################################
 # Task 4:
 Item = input('Whatre you getting today?')
-Amount = 
+Amount = input('How many?')
+
 
 
 ########################################################################
