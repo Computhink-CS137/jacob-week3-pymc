@@ -17,9 +17,9 @@ print("hello from day3")
 # command = input('What are your orders?')
 # print(rank + (' ') + name + (' commands you all to ') + command)
 
-name = input('Whats your name?')
-pens = input('How many of these pens are you getting?')
-print(name + ' bought ' + pens + ' of the pens.')
+# name = input('Whats your name?')
+# pens = input('How many of these pens are you getting?')
+# print(name + ' bought ' + pens + ' of the pens.')
 ############################################
 ########################################################################
 # Task 3:
