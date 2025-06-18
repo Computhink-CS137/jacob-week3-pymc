@@ -33,7 +33,7 @@ print("hello from day3")
 # Task 4:
 Item = input('Whatre you getting today?')
 Amount = input('How many?')
-cost = int(Item) * int(Amount)
+cost = int(Item) * int(Amount)nibub
 print('Thatll be ' + str(cost))
 
 
