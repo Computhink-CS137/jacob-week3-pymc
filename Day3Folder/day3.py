@@ -40,7 +40,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-person1 = input()
+person1 = input('Whats his air')
 
 
 
