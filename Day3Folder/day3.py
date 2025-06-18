@@ -4,11 +4,11 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-yourname = input('whats your name?')
-print('hey ' + yourname)
-yourage = input('How old are you?')
-Newage = int(yourage) + 2 # do math operation
-print('Hey, me too. Im ')
+# yourname = input('whats your name?')
+# print('hey ' + yourname)
+# yourage = input('How old are you?')
+# Newage = int(yourage) + 2 # do math operation
+# print('Hey, me too. Im also ' str(Newage))
 
 
 ########################################################################
