@@ -34,7 +34,7 @@ print("hello from day3")
 Item = input('Whatre you getting today?')
 Amount = input('How many?')
 cost = int(Item) + int(Amount)
-print('')
+print('Thatll be ' + cost)
 
 
 ########################################################################
