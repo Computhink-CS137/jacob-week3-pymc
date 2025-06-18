@@ -21,6 +21,8 @@ print(rank + (' ') + name + (' commands you all to ') + command)
 ########################################################################
 # Task 3:
 number1 = input('Whats the 1st number?')
+number2 = input('Whats the 2nd number')
+
 
 
 ########################################################################
