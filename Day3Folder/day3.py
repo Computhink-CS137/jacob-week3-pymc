@@ -35,7 +35,7 @@ Item = input('Whatre you getting today?')
 Amount = input('How many?')
 cost = int(Item) + int(Amount)
 print('Thatll be ' + str(cost))
-
+ddr
 
 ########################################################################
 # Task 5:
