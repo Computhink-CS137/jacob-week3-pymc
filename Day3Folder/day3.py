@@ -31,8 +31,8 @@ print('The answer is ' + str(results))
 
 ########################################################################
 # Task 4:
-input = input('Whatre you getting today?')
-
+Item = input('Whatre you getting today?')
+Amount = 
 
 
 ########################################################################
