@@ -17,7 +17,6 @@ name = input('Ah, hello ' + rank)
 command = input('What are your orders?')
 print(rank + name + ('commands you all to ') + input)
 
-
 ############################################
 ########################################################################
 # Task 3:
