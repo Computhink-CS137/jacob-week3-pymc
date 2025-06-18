@@ -26,7 +26,7 @@ print("hello from day3")
 number1 = input('Whats the 1st number?')
 number2 = input('Whats the 2nd number')
 results = int(number1) + int(number2)
-print(str(number1 + number2))
+print('The answer is ' + results)
 
 
 ########################################################################
