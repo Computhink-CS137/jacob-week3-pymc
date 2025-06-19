@@ -62,13 +62,25 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
-import random
-random_number = random.randint(1, 1000)
-print(random_number)
+# import random
+# for count in range(10):
+#     random_number = random.randint(1, 9999)
+#     print(random_number)
 
 
 ########################################################################
 # Task 8:
+import random
+random_number1 = random.randint(1, 99)
+random_number2 = random.randint(1, 99)
+entered = input( str(random_number1) + ' multiplied by ' + str(random_number2)   )
+multiplied_answer = int(random_number1) * int(random_number2)
+if int(entered) == multiplied_answer:
+    print('Good Work')
+else:
+    print('Thats wrong')
+
+
 
 
 
